@@ -69,11 +69,11 @@ const Footer = () => {
         Made with 💖
         </p>
         <p className="socials"> 
-          <a href="https://github.com/adelicia-js" rel="noreferrer" target="_blank"><VscGithub size={25}/></a>
-          <a href="https://www.linkedin.com/in/adelicia/" rel="noreferrer" target="_blank"><SiLinkedin size={25}/></a>
+          <a href="https://github.com/Munawwar-Gire-MS/MG-NODE-REACT-ZIP.git" rel="noreferrer" target="_blank"><VscGithub size={25}/></a>
+          <a href="https://www.linkedin.com/in/munawwar-gire/" rel="noreferrer" target="_blank"><SiLinkedin size={25}/></a>
         </p>
         <p>
-            <a href="https://github.com/adelicia-js/todo-cra" rel="noreferrer" target="_blank" className="source">$Source | 2023 - 2024</a> 
+            <a href="https://github.com/Munawwar-Gire-MS/MG-NODE-REACT-ZIP.git" rel="noreferrer" target="_blank" className="source">$Source | 2025 - 2026</a> 
         </p> 
         
     </>
